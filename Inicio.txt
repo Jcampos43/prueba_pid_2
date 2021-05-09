@@ -1,1 +1,4 @@
-Linus Torvald es el creador de GIT
+Linus Torvalds es el creador de GIT
+
+
+GIT CAMBIOS
